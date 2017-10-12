@@ -1,5 +1,7 @@
 # PostAds
 
+![picture](img/1. index.jpg)
+
 PostAds is intended to be a public platform for users to post advertisements 
 
 System dependencies
