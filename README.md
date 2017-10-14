@@ -1,3 +1,7 @@
+## Documentation
+https://github.com/ZhiruiWang1/PostAd/wiki
+
+
 # PostAd - from proj2 folder
 
 PostAd is intended to be a public platform for users to post advertisements. <br />
