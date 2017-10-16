@@ -1,7 +1,9 @@
 ## Documentation
 https://github.com/ZhiruiWang1/PostAd/wiki  <br />
 
-[My Github](https://github.com/cmatskas" target="_blank)
+
+[1]: https://www.w3schools.com?target=_blank
+
 
 
 # PostAd - from proj2 folder
@@ -9,7 +11,7 @@ https://github.com/ZhiruiWang1/PostAd/wiki  <br />
 PostAd is intended to be a public platform for users to post advertisements. <br />
 Below is what the website looks like.
 
-![Alt text](https://github.com/rozar17/proj2/blob/master/img/1.%20index.jpg?raw=true "Optional Title") <br />
+![blah](https://github.com/rozar17/proj2/blob/master/img/1.%20index.jpg?raw=true "aaa") <br />
 
 
 
